@@ -1,0 +1,269 @@
+################################## Usee TV #########################################
+
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,ZalTV Indonesia
+https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 1 INDO
+rtmp://118.97.96.17:1935/discover/beib1_3
+#EXTINF:0,beIN Sport 1
+https://indiku.uk.to/pp/ok.m3u8?ch=bein1
+#EXTINF:0,beIN Sport 2
+https://indiku.uk.to/pp/ok.m3u8?ch=bein2
+#EXTINF:0,beIN Sport 3
+https://indiku.uk.to/pp/ok.m3u8?ch=bein3
+#EXTINF:0,Discovery Channel
+https://indiku.uk.to/pp/ok.m3u8?ch=disco
+#EXTINF:0,Fox Sport 1
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport1
+#EXTINF:0,Fox Sport 2
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport2
+#EXTINF:0,Fox Sport 3
+https://indiku.uk.to/pp/ok.m3u8?ch=foxsport3
+#EXTINF:0,Golfplus
+https://indiku.uk.to/pp/ok.m3u8?ch=golfplus
+#EXTINF:0,Piala Indonesia
+https://indiku.uk.to/pp/ok.m3u8?ch=ligapialaindo
+#EXTINF:0,Nat Geo
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeo
+#EXTINF:0,Nat Geo People
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeopeople
+#EXTINF:0,Nat Geo Wild
+https://indiku.uk.to/pp/ok.m3u8?ch=natgeowild
+#EXTINF:0,NBA
+https://indiku.uk.to/pp/ok.m3u8?ch=nba
+#EXTINF:0,Usee Info
+https://indiku.uk.to/pp/ok.m3u8?ch=useeinfo
+#EXTINF:0,Usee Photo
+https://indiku.uk.to/pp/ok.m3u8?ch=useephoto
+#EXTINF:0,UseePrime
+https://indiku.uk.to/pp/ok.m3u8?ch=useeprime
+#EXTINF:0,UseeSports
+https://indiku.uk.to/pp/ok.m3u8?ch=useesport
+#EXTINF:0,ANTV
+https://indiku.uk.to/pp/ok.m3u8?ch=antv
+#EXTINF:0,Idku
+https://indiku.uk.to/pp/ok.m3u8?ch=idku
+#EXTINF:0,Indosiar
+https://indiku.uk.to/pp/ok.m3u8?ch=indosiar
+#EXTINF:0,JITV
+https://indiku.uk.to/pp/ok.m3u8?ch=jitv
+#EXTINF:0,Kompas TV
+https://indiku.uk.to/pp/ok.m3u8?ch=kompastv
+#EXTINF:0,Metro TV
+https://indiku.uk.to/pp/ok.m3u8?ch=metrotv
+#EXTINF:0,Net.
+https://indiku.uk.to/pp/ok.m3u8?ch=net
+#EXTINF:0,RRI NET
+https://indiku.uk.to/pp/ok.m3u8?ch=rrinet
+#EXTINF:0,Rajawali TV
+https://indiku.uk.to/pp/ok.m3u8?ch=rtv
+#EXTINF:0,SCTV
+https://indiku.uk.to/pp/ok.m3u8?ch=sctv
+#EXTINF:0,Trans7
+https://indiku.uk.to/pp/ok.m3u8?ch=trans7
+#EXTINF:0,TransTV
+https://indiku.uk.to/pp/ok.m3u8?ch=transtv
+#EXTINF:0,TV One
+https://indiku.uk.to/pp/ok.m3u8?ch=tvone
+#EXTINF:0,Antara
+https://indiku.uk.to/pp/ok.m3u8?ch=antara
+#EXTINF:0,Baby First
+https://indiku.uk.to/pp/ok.m3u8?ch=babyfirst
+#EXTINF:0,Bali TV
+https://indiku.uk.to/pp/ok.m3u8?ch=balitv
+#EXTINF:0,BandungTV
+https://indiku.uk.to/pp/ok.m3u8?ch=bandungtv
+#EXTINF:0,Berita Satu
+https://indiku.uk.to/pp/ok.m3u8?ch=beritasatu
+#EXTINF:0,Citra Drama
+https://indiku.uk.to/pp/ok.m3u8?ch=cdrama
+#EXTINF:0,Celebes TV
+https://indiku.uk.to/pp/ok.m3u8?ch=celebestv
+#EXTINF:0,Citra Entertainment
+https://indiku.uk.to/pp/ok.m3u8?ch=centertainment
+#EXTINF:0,Duck TV
+https://indiku.uk.to/pp/ok.m3u8?ch=ducktv
+#EXTINF:0,Dunia Lain
+https://indiku.uk.to/pp/ok.m3u8?ch=dunialain
+#EXTINF:0,DW (English)
+https://indiku.uk.to/pp/ok.m3u8?ch=dwtv
+#EXTINF:0,Fajar TV
+https://indiku.uk.to/pp/ok.m3u8?ch=fajartv
+#EXTINF:0,France 24
+https://indiku.uk.to/pp/ok.m3u8?ch=france24
+#EXTINF:0,Horee
+https://indiku.uk.to/pp/ok.m3u8?ch=horee
+#EXTINF:0,IMC
+https://indiku.uk.to/pp/ok.m3u8?ch=imc
+#EXTINF:0,JakTV
+https://indiku.uk.to/pp/ok.m3u8?ch=jaktv
+#EXTINF:0,JTV
+https://indiku.uk.to/pp/ok.m3u8?ch=jtv
+#EXTINF:0,MUGOS
+https://indiku.uk.to/pp/ok.m3u8?ch=mugos
+#EXTINF:0,MUI TV
+https://indiku.uk.to/pp/ok.m3u8?ch=muitv
+#EXTINF:0,MyTV
+https://indiku.uk.to/pp/ok.m3u8?ch=mytv
+#EXTINF:0,News Asia
+https://indiku.uk.to/pp/ok.m3u8?ch=newsasia
+#EXTINF:0,Paytren TV
+https://indiku.uk.to/pp/ok.m3u8?ch=paytrentv
+#EXTINF:0,startup channel
+https://indiku.uk.to/pp/ok.m3u8?ch=startup
+#EXTINF:0,T Music
+https://indiku.uk.to/pp/ok.m3u8?ch=tmusic
+#EXTINF:0,TV9 NU
+https://indiku.uk.to/pp/ok.m3u8?ch=tv9
+#EXTINF:0,TV Edukasi
+https://indiku.uk.to/pp/ok.m3u8?ch=tvedukasi
+#EXTINF:0,TVRI
+https://indiku.uk.to/pp/ok.m3u8?ch=tvri
+#EXTINF:0,UChannel
+https://indiku.uk.to/pp/ok.m3u8?ch=uchannel
+#EXTINF:0,Aljazeera
+https://indiku.uk.to/pp/ok.m3u8?ch=aljazeera
+#EXTINF:0,AlQuran Kareem
+https://indiku.uk.to/pp/ok.m3u8?ch=alquran
+#EXTINF:0,DMI
+https://indiku.uk.to/pp/ok.m3u8?ch=dmi
+#EXTINF:0,Khazanah
+https://indiku.uk.to/pp/ok.m3u8?ch=khazanah
+#EXTINF:0,MQTV
+https://indiku.uk.to/pp/ok.m3u8?ch=mqtv
+#EXTINF:0,MTATV
+https://indiku.uk.to/pp/ok.m3u8?ch=mtatv
+#EXTINF:0,Muhammadiyah TV
+https://indiku.uk.to/pp/ok.m3u8?ch=muhammadiyahtv
+#EXTINF:0,Rodja TV
+https://indiku.uk.to/pp/ok.m3u8?ch=rodjatv
+#EXTINF:0,AXN
+https://indiku.uk.to/pp/ok.m3u8?ch=axn
+#EXTINF:0,Bioskop Indonesia
+https://indiku.uk.to/pp/ok.m3u8?ch=bioskopindonesia
+#EXTINF:0,CNN Indonesia
+https://indiku.uk.to/pp/ok.m3u8?ch=cnnindonesia
+#EXTINF:0,Daai TV
+https://indiku.uk.to/pp/ok.m3u8?ch=daaitv
+#EXTINF:0,Dongnan TV
+https://indiku.uk.to/pp/ok.m3u8?ch=dongnantv
+#EXTINF:0,Dunia anak
+https://indiku.uk.to/pp/ok.m3u8?ch=duniaanak
+#EXTINF:0,Eat & Go
+https://indiku.uk.to/pp/ok.m3u8?ch=eatgo
+#EXTINF:0,Flik
+https://indiku.uk.to/pp/ok.m3u8?ch=flik
+#EXTINF:0,Galaxy
+https://indiku.uk.to/pp/ok.m3u8?ch=galaxy
+#EXTINF:0,Hi Indo
+https://indiku.uk.to/pp/ok.m3u8?ch=hiindo
+#EXTINF:0,History
+https://indiku.uk.to/pp/ok.m3u8?ch=history
+#EXTINF:0,Insert
+https://indiku.uk.to/pp/ok.m3u8?ch=insert
+#EXTINF:0,OH!K
+https://indiku.uk.to/pp/ok.m3u8?ch=ohk
+#EXTINF:0,Pelangi
+https://indiku.uk.to/pp/ok.m3u8?ch=pelangi
+#EXTINF:0,Prambors
+https://indiku.uk.to/pp/ok.m3u8?ch=pramborstv
+#EXTINF:0,Waku Waku Japan
+https://indiku.uk.to/pp/ok.m3u8?ch=wakuwaku
+#EXTINF:0,ANIPlus
+https://indiku.uk.to/pp/ok.m3u8?ch=aniplus
+#EXTINF:0,Bloomberg
+https://indiku.uk.to/pp/ok.m3u8?ch=bloomberg
+#EXTINF:0,CCTV4
+https://indiku.uk.to/pp/ok.m3u8?ch=cctv4
+#EXTINF:0,CGTN Documentary
+https://indiku.uk.to/pp/ok.m3u8?ch=cgtndocumentary
+#EXTINF:0,Da Vinci Learning
+https://indiku.uk.to/pp/ok.m3u8?ch=davinci
+#EXTINF:0,Dreamworks
+https://indiku.uk.to/pp/ok.m3u8?ch=dreamworks
+#EXTINF:0,egg network
+https://indiku.uk.to/pp/ok.m3u8?ch=egg
+#EXTINF:0,Euronews
+https://indiku.uk.to/pp/ok.m3u8?ch=euronews
+#EXTINF:0,Fashion One
+https://indiku.uk.to/pp/ok.m3u8?ch=fashionone
+#EXTINF:0,FashionTV
+https://indiku.uk.to/pp/ok.m3u8?ch=fashiontv
+#EXTINF:0,Kplus
+https://indiku.uk.to/pp/ok.m3u8?ch=kplus
+#EXTINF:0,nhk world Japan
+https://indiku.uk.to/pp/ok.m3u8?ch=nhkworld
+#EXTINF:0,SGEM
+https://indiku.uk.to/pp/ok.m3u8?ch=sgem
+#EXTINF:0,SONE
+https://indiku.uk.to/pp/ok.m3u8?ch=sone
+#EXTINF:0,Spacetoon Plus
+https://indiku.uk.to/pp/ok.m3u8?ch=spacetoonplus
+#EXTINF:0,TV5Monde
+https://indiku.uk.to/pp/ok.m3u8?ch=tv5monde
+#EXTINF:0,ZBioskop
+https://indiku.uk.to/pp/ok.m3u8?ch=zbioskop
+#EXTINF:0,Asian Food Channel
+https://indiku.uk.to/pp/ok.m3u8?ch=afc
+
+#EXTM3U
+#EXTINF:-1,ZalTV Indonesia
+https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
+
+#EXTINF:-1,NET. TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METROTV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,iNEWS HD
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+
+
