@@ -18,12 +18,11 @@ https://streaming.useetv.com/jhos/beib2.m3u8?stime=20190512190000&etime=20190512
 https://cdnjt12.useetv.com/jhos/beib3_3/1557666076/playlist.m3u8?stime=20190512200000&etime=20190512220000&encoded=0816e62941ae6418516de
 
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
-http://tvku.live:8888/yulitr/Wh1r2w5RZI/728
+https://cdnjt23.useetv.com/jhos/beib1_1/1557670368/1557670368049.ts
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
-http://tvku.live:8888/yulitr/Wh1r2w5RZI/729
+https://cdnjt11.useetv.com/jhos/beib2_2/1557670504/playlist.m3u8?stime=20190512210000&etime=20190512230000&encoded=01104202e512bbd562620
 #EXTINF:-1 tvg-id="beINSports3.id" tvg-name="BeIN Sport 3 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein3.jpg" group-title="Sports",BeIN Sport 3 ID
-http://tvku.live:8888/yulitr/Wh1r2w5RZI/730
-
+https://cdnjt13.useetv.com/jhos/beib3_1/1557670438/playlist.m3u8?stime=20190512210000&etime=20190512230000&encoded=018cf5876ebc2337d6142
 
 #EXTM3U
 #EXTINF:-1,ZalTV Indonesia
