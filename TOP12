@@ -17,6 +17,17 @@ https://streaming.useetv.com/jhos/beib2.m3u8?stime=20190512190000&etime=20190512
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 3 INDO
 https://cdnjt12.useetv.com/jhos/beib3_3/1557666076/playlist.m3u8?stime=20190512200000&etime=20190512220000&encoded=0816e62941ae6418516de
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 3 INDO
+http://tvku.live:8888/yulitr/Wh1r2w5RZI/728
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 3 INDO
+http://tvku.live:8888/yulitr/Wh1r2w5RZI/729
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 3 INDO
+http://tvku.live:8888/yulitr/Wh1r2w5RZI/730
+
+
+
 #EXTM3U
 #EXTINF:-1,ZalTV Indonesia
 https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
