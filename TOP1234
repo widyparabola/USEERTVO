@@ -8,14 +8,12 @@ https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
 #EXTINF:0,PPTV
 http://183.89.159.213:9982/stream/channelid/707726364
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 1 INDO
-https://cdnjt22.useetv.com/jhos/beib1_4/1557665818/playlist.m3u8?stime=20190512190000&etime=20190512210000&encoded=06857e8e7079c57ec8389
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 2 INDO
-https://streaming.useetv.com/jhos/beib2.m3u8?stime=20190512190000&etime=20190512210000&encoded=041d192a7a0a456e4d7b0
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Usee TV",BEINSPORT 3 INDO
-https://cdnjt12.useetv.com/jhos/beib3_3/1557666076/playlist.m3u8?stime=20190512200000&etime=20190512220000&encoded=0816e62941ae6418516de
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
+https://streaming.useetv.com/jhos/beib1.m3u8?stime=20190512210000&etime=20190512230000&encoded=006b9017e9a39b8537bf6
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
+https://cdnjt11.useetv.com/jhos/beib2_2/1557670504/playlist.m3u8?stime=20190512210000&etime=20190512230000&encoded=01104202e512bbd562620
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="BeIN Sport 3 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein3.jpg" group-title="Sports",BeIN Sport 3 ID
+https://cdnjt13.useetv.com/jhos/beib3_1/1557670438/playlist.m3u8?stime=20190512210000&etime=20190512230000&encoded=018cf5876ebc2337d6142
 
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
 https://streaming.useetv.com/jhos/beib1.m3u8?stime=20190512210000&etime=20190512230000&encoded=006b9017e9a39b8537bf6
