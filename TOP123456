@@ -8,6 +8,11 @@ https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
 #EXTINF:0,PPTV
 http://183.89.159.213:9982/stream/channelid/707726364
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",ELEVEN SPORT 1
+http://wc7.beeyooo.com/tv11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",ELEVEN SPORT 2
+http://wc6.beeyooo.com/11sp.m3u8
+
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
 https://streaming.useetv.com/jhos/beib1.m3u8?stime=20190512210000&etime=20190512230000&encoded=006b9017e9a39b8537bf6
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
